@@ -1,3 +1,3 @@
-Rodar programa:
+Run program:
 
     python main.py
